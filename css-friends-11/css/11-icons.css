@@ -1,0 +1,20 @@
+/* PHASE 11: Icons */
+
+[class*="icon-"] {
+    background-image: url("../images/sprite.png") ;
+    
+}
+
+.icon-comment {
+    background-position: 0px 0px;
+    height: 50px;
+    width: 50px;  
+    display: flex; 
+} 
+
+.icon-reblog { 
+    background-position: 0px 200px; 
+    height: 50px;
+    height: 50px;
+    display: flex;
+}
